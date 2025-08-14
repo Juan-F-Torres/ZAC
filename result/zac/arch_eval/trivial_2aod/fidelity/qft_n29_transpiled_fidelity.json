@@ -1,9 +1,9 @@
 {
-  "cir_fidelity": 0.001222697904153261,
-  "cir_fidelity_1q_gate": 0.7781487112332806,
-  "cir_fidelity_2q_gate": 0.01759555950230475,
+  "cir_fidelity": 0.0017540648262013158,
+  "cir_fidelity_1q_gate": 0.8083728237224047,
+  "cir_fidelity_2q_gate": 0.033089858277107455,
   "cir_fidelity_2q_gate_for_idle": 1,
-  "cir_fidelity_atom_transfer": 0.18771384857350665,
-  "cir_fidelity_coherence": 0.47572630963412477,
-  "cir_duration": 40322.12048259069
+  "cir_fidelity_atom_transfer": 0.2348696773746292,
+  "cir_fidelity_coherence": 0.2791978545980374,
+  "cir_duration": 66597.89282733905
 }

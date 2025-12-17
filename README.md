@@ -20,8 +20,3 @@ Open source under the BSD 3-Clause license.
 
 ## How to use
 - Run `python run.py <S>` where `<S>` is the json file for experimental setting.
-
-## Publication
-To be appeared at HPCA 2025
-
-trial 1
